@@ -10,7 +10,7 @@ Hi! I'm Ranveer Soni - Indian, passionate about coding. Daily learner, aiming fo
 * 🖥️  See my portfolio at [Portfolio](https://ranveersoni.me/)
 * ✉️  You can contact me at [contact@ranveersoni.me](mailto:contact@ranveersoni.me)
 * 🧠  I'm learning about ML/AI
-* 🤝  I'm open to collaborating on projects like cyber stuff and web development
+* 🤝  I'm open to collab.
 
     <div>
         <samp>
