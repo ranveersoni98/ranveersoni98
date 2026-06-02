@@ -6,7 +6,7 @@ Design Engineer & Full Stack Developer.
 
 Hi! I'm Ranveer Soni - Indian, passionate about coding. Daily learner, aiming for personal growth. Self-Taught programmer. Thanks for reading.
 
-* 🌍  I'm based in USA
+* 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](https://ranveersoni.me/)
 * ✉️  You can contact me at [contact@ranveersoni.me](mailto:contact@ranveersoni.me)
 * 🧠  I'm learning about ML/AI
